@@ -257,6 +257,7 @@ class App {
               // White Eyes
               // child.material = NeonMaterial;
             } else if (child.material.name === 'Black') {
+              //  Black Eye
               // child.material = NeonMaterial;
               child.material.wireframe = false;
             }
